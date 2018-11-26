@@ -1,0 +1,4 @@
+<Jan>;<Kowalski>;<prezes>;<1>;
+<Tomek>;<Nowak>;<pracownikFizyczny>;<4>;
+<Edek>;<Baton>;<pracownikFizyczny>;<3>;
+<Anna>;<Nowak>;<pracownikFizyczny>;<2>;

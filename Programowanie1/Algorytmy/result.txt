@@ -1,0 +1,4 @@
+Jan;Kowalski;prezes;1
+Anna;Nowak;pracownikFizyczny;2
+Edek;Baton;pracownikFizyczny;3
+Tomek;Nowak;pracownikFizyczny;4
