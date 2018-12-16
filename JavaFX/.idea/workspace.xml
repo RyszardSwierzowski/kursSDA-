@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../XML JSON/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/src/main/java/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/src/main/java/zadanie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/src/main/java/zadanie/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/src/main/java/zadanie/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wiekowatkowosc/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wiekowatkowosc/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wiekowatkowosc/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wiekowatkowosc/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wiekowatkowosc/src/main/java/rozgrzewka/App2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wiekowatkowosc/src/main/java/rozgrzewka/AppTwoThredsInThisSameTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wiekowatkowosc/src/main/java/rozgrzewka/Rozgrzewka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wiekowatkowosc/src/main/java/rozgrzewka/Zadanie1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programowanie2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie2/Programowanie2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programowanie2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie2/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programowanie2/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/CalculatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/CalculatorController.java" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -94,38 +74,34 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/controllers/CalculatorController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+            <state relative-caret-position="558">
+              <caret line="79" column="12" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2428#2429#0" expanded="true" />
-                <element signature="e#2448#2449#0" expanded="true" />
-                <element signature="e#2482#2483#0" expanded="true" />
-                <element signature="e#2502#2503#0" expanded="true" />
-                <element signature="e#2536#2537#0" expanded="true" />
-                <element signature="e#2556#2557#0" expanded="true" />
-                <element signature="e#2590#2591#0" expanded="true" />
-                <element signature="e#2610#2611#0" expanded="true" />
-                <element signature="e#2644#2645#0" expanded="true" />
-                <element signature="e#2664#2665#0" expanded="true" />
-                <element signature="e#2698#2699#0" expanded="true" />
-                <element signature="e#2718#2719#0" expanded="true" />
-                <element signature="e#2752#2753#0" expanded="true" />
-                <element signature="e#2772#2773#0" expanded="true" />
-                <element signature="e#2806#2807#0" expanded="true" />
-                <element signature="e#2826#2827#0" expanded="true" />
-                <element signature="e#2860#2861#0" expanded="true" />
-                <element signature="e#2880#2881#0" expanded="true" />
-                <element signature="e#2917#2918#0" expanded="true" />
-                <element signature="e#2951#2952#0" expanded="true" />
-                <element signature="e#2989#2990#0" expanded="true" />
-                <element signature="e#3023#3024#0" expanded="true" />
-                <element signature="e#3064#3065#0" expanded="true" />
-                <element signature="e#3098#3099#0" expanded="true" />
-                <element signature="e#3139#3140#0" expanded="true" />
-                <element signature="e#3173#3174#0" expanded="true" />
-                <element signature="e#3209#3210#0" expanded="true" />
-                <element signature="e#3228#3229#0" expanded="true" />
+                <element signature="method#addNumber#0;class#CalculatorController#0" />
+                <element signature="method#&lt;unnamed&gt;#0;class#CalculatorController#0" />
+                <element signature="method#addArithmeticOperator#1;class#CalculatorController#0" />
+                <element signature="method#obliczWynik#0;class#CalculatorController#0" />
+                <element signature="e#1617#2268#1" />
+                <element signature="e#1766#1851#1" />
+                <element signature="e#1795#1980#1" />
+                <element signature="e#2032#2135#1" />
+                <element signature="e#2165#2268#1" />
+                <element signature="method#pressButton0#0;class#CalculatorController#0" />
+                <element signature="n#!!block;n#pressButton1#0;n#CalculatorController#0" />
+                <element signature="n#!!block;n#pressButton2#0;n#CalculatorController#0" />
+                <element signature="n#!!block;n#pressButton3#0;n#CalculatorController#0" />
+                <element signature="n#!!block;n#pressButton4#0;n#CalculatorController#0" />
+                <element signature="n#!!block;n#pressButton5#0;n#CalculatorController#0" />
+                <element signature="n#!!block;n#pressButton6#0;n#CalculatorController#0" />
+                <element signature="n#!!block;n#pressButton7#0;n#CalculatorController#0" />
+                <element signature="n#!!block;n#pressButton8#0;n#CalculatorController#0" />
+                <element signature="n#!!block;n#pressButton9#0;n#CalculatorController#0" />
+                <element signature="n#!!block;n#pressButtonPlus#0;n#CalculatorController#0" />
+                <element signature="n#!!block;n#pressButtonMinus#0;n#CalculatorController#0" />
+                <element signature="n#!!block;n#pressButtonDivision#0;n#CalculatorController#0" />
+                <element signature="n#!!block;n#pressButtonMultiple#0;n#CalculatorController#0" />
+                <element signature="n#!!block;n#pressButtonMultiple#1;n#CalculatorController#0" />
+                <element signature="method#pressButtonWynik#0;class#CalculatorController#0" />
               </folding>
             </state>
           </provider>
@@ -222,7 +198,7 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544969703099" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544969874032" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -329,12 +305,12 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1544879750624" duration="1296000" />
-      <workItem from="1544961559887" duration="7616000" />
+      <workItem from="1544961559887" duration="7786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10214000" />
+    <option name="totallyTimeSpent" value="10384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -349,7 +325,7 @@
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,38 +392,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/controllers/CalculatorController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+        <state relative-caret-position="558">
+          <caret line="79" column="12" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2428#2429#0" expanded="true" />
-            <element signature="e#2448#2449#0" expanded="true" />
-            <element signature="e#2482#2483#0" expanded="true" />
-            <element signature="e#2502#2503#0" expanded="true" />
-            <element signature="e#2536#2537#0" expanded="true" />
-            <element signature="e#2556#2557#0" expanded="true" />
-            <element signature="e#2590#2591#0" expanded="true" />
-            <element signature="e#2610#2611#0" expanded="true" />
-            <element signature="e#2644#2645#0" expanded="true" />
-            <element signature="e#2664#2665#0" expanded="true" />
-            <element signature="e#2698#2699#0" expanded="true" />
-            <element signature="e#2718#2719#0" expanded="true" />
-            <element signature="e#2752#2753#0" expanded="true" />
-            <element signature="e#2772#2773#0" expanded="true" />
-            <element signature="e#2806#2807#0" expanded="true" />
-            <element signature="e#2826#2827#0" expanded="true" />
-            <element signature="e#2860#2861#0" expanded="true" />
-            <element signature="e#2880#2881#0" expanded="true" />
-            <element signature="e#2917#2918#0" expanded="true" />
-            <element signature="e#2951#2952#0" expanded="true" />
-            <element signature="e#2989#2990#0" expanded="true" />
-            <element signature="e#3023#3024#0" expanded="true" />
-            <element signature="e#3064#3065#0" expanded="true" />
-            <element signature="e#3098#3099#0" expanded="true" />
-            <element signature="e#3139#3140#0" expanded="true" />
-            <element signature="e#3173#3174#0" expanded="true" />
-            <element signature="e#3209#3210#0" expanded="true" />
-            <element signature="e#3228#3229#0" expanded="true" />
+            <element signature="method#addNumber#0;class#CalculatorController#0" />
+            <element signature="method#&lt;unnamed&gt;#0;class#CalculatorController#0" />
+            <element signature="method#addArithmeticOperator#1;class#CalculatorController#0" />
+            <element signature="method#obliczWynik#0;class#CalculatorController#0" />
+            <element signature="e#1617#2268#1" />
+            <element signature="e#1766#1851#1" />
+            <element signature="e#1795#1980#1" />
+            <element signature="e#2032#2135#1" />
+            <element signature="e#2165#2268#1" />
+            <element signature="method#pressButton0#0;class#CalculatorController#0" />
+            <element signature="n#!!block;n#pressButton1#0;n#CalculatorController#0" />
+            <element signature="n#!!block;n#pressButton2#0;n#CalculatorController#0" />
+            <element signature="n#!!block;n#pressButton3#0;n#CalculatorController#0" />
+            <element signature="n#!!block;n#pressButton4#0;n#CalculatorController#0" />
+            <element signature="n#!!block;n#pressButton5#0;n#CalculatorController#0" />
+            <element signature="n#!!block;n#pressButton6#0;n#CalculatorController#0" />
+            <element signature="n#!!block;n#pressButton7#0;n#CalculatorController#0" />
+            <element signature="n#!!block;n#pressButton8#0;n#CalculatorController#0" />
+            <element signature="n#!!block;n#pressButton9#0;n#CalculatorController#0" />
+            <element signature="n#!!block;n#pressButtonPlus#0;n#CalculatorController#0" />
+            <element signature="n#!!block;n#pressButtonMinus#0;n#CalculatorController#0" />
+            <element signature="n#!!block;n#pressButtonDivision#0;n#CalculatorController#0" />
+            <element signature="n#!!block;n#pressButtonMultiple#0;n#CalculatorController#0" />
+            <element signature="n#!!block;n#pressButtonMultiple#1;n#CalculatorController#0" />
+            <element signature="method#pressButtonWynik#0;class#CalculatorController#0" />
           </folding>
         </state>
       </provider>
