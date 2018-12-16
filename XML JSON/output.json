@@ -1,0 +1,12 @@
+{
+  "listOfPerson": [
+    {
+      "imie": "Ania",
+      "age": 28
+    },
+    {
+      "imie": "Bartek",
+      "age": 29
+    }
+  ]
+}
