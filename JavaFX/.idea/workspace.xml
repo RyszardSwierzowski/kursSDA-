@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/controllers/CalculatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/CalculatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="288">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,29 +78,8 @@
               <caret line="79" column="12" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
               <folding>
                 <element signature="method#addNumber#0;class#CalculatorController#0" />
-                <element signature="method#&lt;unnamed&gt;#0;class#CalculatorController#0" />
-                <element signature="method#addArithmeticOperator#1;class#CalculatorController#0" />
                 <element signature="method#obliczWynik#0;class#CalculatorController#0" />
-                <element signature="e#1617#2268#1" />
-                <element signature="e#1766#1851#1" />
-                <element signature="e#1795#1980#1" />
-                <element signature="e#2032#2135#1" />
-                <element signature="e#2165#2268#1" />
                 <element signature="method#pressButton0#0;class#CalculatorController#0" />
-                <element signature="n#!!block;n#pressButton1#0;n#CalculatorController#0" />
-                <element signature="n#!!block;n#pressButton2#0;n#CalculatorController#0" />
-                <element signature="n#!!block;n#pressButton3#0;n#CalculatorController#0" />
-                <element signature="n#!!block;n#pressButton4#0;n#CalculatorController#0" />
-                <element signature="n#!!block;n#pressButton5#0;n#CalculatorController#0" />
-                <element signature="n#!!block;n#pressButton6#0;n#CalculatorController#0" />
-                <element signature="n#!!block;n#pressButton7#0;n#CalculatorController#0" />
-                <element signature="n#!!block;n#pressButton8#0;n#CalculatorController#0" />
-                <element signature="n#!!block;n#pressButton9#0;n#CalculatorController#0" />
-                <element signature="n#!!block;n#pressButtonPlus#0;n#CalculatorController#0" />
-                <element signature="n#!!block;n#pressButtonMinus#0;n#CalculatorController#0" />
-                <element signature="n#!!block;n#pressButtonDivision#0;n#CalculatorController#0" />
-                <element signature="n#!!block;n#pressButtonMultiple#0;n#CalculatorController#0" />
-                <element signature="n#!!block;n#pressButtonMultiple#1;n#CalculatorController#0" />
                 <element signature="method#pressButtonWynik#0;class#CalculatorController#0" />
               </folding>
             </state>
@@ -109,12 +88,12 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/viewsFxml/Calculator.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
+            <state relative-caret-position="2268">
               <caret line="126" selection-start-line="126" selection-end-line="126" />
             </state>
           </provider>
-          <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
     </leaf>
@@ -142,8 +121,9 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="55" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="199" />
+    <option name="y" value="187" />
     <option name="width" value="943" />
     <option name="height" value="1087" />
   </component>
@@ -156,8 +136,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,9 +178,9 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544969874032" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544969876662" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../projekt inz opr/testowe" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="recentsLimit" value="5" />
   </component>
@@ -306,17 +286,17 @@
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1544879750624" duration="1296000" />
       <workItem from="1544961559887" duration="7786000" />
+      <workItem from="1545300832432" duration="30000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10384000" />
+    <option name="totallyTimeSpent" value="10414000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="199" y="187" width="943" height="1087" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.15986769" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.33182332" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -325,7 +305,7 @@
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32914045" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -365,10 +345,17 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="1312" column="37" selection-start-line="1312" selection-start-column="29" selection-end-line="1312" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="288">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -376,17 +363,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/viewsFxml/Calculator.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="126" selection-start-line="126" selection-end-line="126" />
-        </state>
-      </provider>
       <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="1312" column="37" selection-start-line="1312" selection-start-column="29" selection-end-line="1312" selection-end-column="37" />
+        <state relative-caret-position="2268">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
         </state>
       </provider>
     </entry>

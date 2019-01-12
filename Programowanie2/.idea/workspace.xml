@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86ceb777-06c2-4b23-b4e6-0b5c68ffef43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../XML JSON/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/src/main/java/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/src/main/java/zadanie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/src/main/java/zadanie/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XML JSON/src/main/java/zadanie/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaFX/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programowanie2.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BiednyCamelCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BiednyCamelCase.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,23 +17,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zapychaczeCzasu/Sandbox1.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StringUtils/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="16" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="20" column="10" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lombok/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zapychaczeCzasu/sandbox1.txt">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state relative-caret-position="234">
+              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zapychaczeCzasu/WalidacjaHaslaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,6 +64,8 @@
         <option value="Interface" />
         <option value="Enum" />
         <option value="FxmlFile" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -80,16 +91,21 @@
         <option value="$PROJECT_DIR$/src/main/java/UML/Osoba.java" />
         <option value="$PROJECT_DIR$/src/main/java/UML/Studnet.java" />
         <option value="$PROJECT_DIR$/src/main/java/DataWielkanocy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/BiednyCamelCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/SpacjeCamelCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/DniTygodnia.java" />
         <option value="$PROJECT_DIR$/src/main/java/DzienTygodnia.java" />
         <option value="$PROJECT_DIR$/src/main/java/czas/ObslugaCzasu.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaFX/Main.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/zapychaczeCzasu/sandbox1.txt" />
         <option value="$PROJECT_DIR$/src/main/java/zapychaczeCzasu/Sandbox1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BiednyCamelCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zapychaczeCzasu/WalidacjaHasla.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zapychaczeCzasu/WalidacjaHaslaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stringUtilities/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StringUtils/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/lombok/Main.java" />
       </list>
     </option>
   </component>
@@ -100,9 +116,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
-    <option name="width" value="1049" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="51" />
+    <option name="width" value="1466" />
     <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -113,6 +129,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -151,23 +168,32 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544885166405" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547298384681" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="zapychaczeCzasu" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rysza\Desktop\kursSDA-\Programowanie2\src\main\java" />
     </key>
@@ -184,24 +210,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="BiednyCamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BiednyCamelCase" />
-      <module name="Programowanie2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DzienTygodnia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DzienTygodnia" />
+  <component name="RunManager" selected="Application.ObslugaCzasu">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Programowanie2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="StringUtils.Main" />
       <module name="Programowanie2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringUtils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -219,27 +244,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpacjeCamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpacjeCamelCase" />
+    <configuration name="WalidacjaHasla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zapychaczeCzasu.WalidacjaHasla" />
       <module name="Programowanie2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zapychaczeCzasu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalidacjaHaslaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programowanie2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zapychaczeCzasu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zapychaczeCzasu" />
+      <option name="MAIN_CLASS_NAME" value="zapychaczeCzasu.WalidacjaHaslaTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BiednyCamelCase" />
-      <item itemvalue="Application.SpacjeCamelCase" />
-      <item itemvalue="Application.DzienTygodnia" />
       <item itemvalue="Application.ObslugaCzasu" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.WalidacjaHasla" />
+      <item itemvalue="JUnit.WalidacjaHaslaTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WalidacjaHaslaTest" />
+        <item itemvalue="Application.WalidacjaHasla" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ObslugaCzasu" />
-        <item itemvalue="Application.DzienTygodnia" />
-        <item itemvalue="Application.SpacjeCamelCase" />
-        <item itemvalue="Application.BiednyCamelCase" />
       </list>
     </recent_temporary>
   </component>
@@ -259,16 +302,41 @@
       <workItem from="1544881148518" duration="848000" />
       <workItem from="1544882475529" duration="2760000" />
       <workItem from="1544947545622" duration="59000" />
+      <workItem from="1547280432936" duration="9972000" />
+      <workItem from="1547296645974" duration="325000" />
+      <workItem from="1547296993686" duration="1210000" />
+      <workItem from="1547298238866" duration="145000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="WalidacjaHaslaTest - 2019.01.12 at 11h 14m 00s.xml">
+      <configuration name="WalidacjaHaslaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WalidacjaHaslaTest - 2019.01.12 at 11h 24m 24s.xml">
+      <configuration name="WalidacjaHaslaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WalidacjaHaslaTest - 2019.01.12 at 11h 26m 04s.xml">
+      <configuration name="WalidacjaHaslaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WalidacjaHaslaTest - 2019.01.12 at 11h 26m 37s.xml">
+      <configuration name="WalidacjaHaslaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WalidacjaHaslaTest - 2019.01.12 at 11h 55m 39s.xml">
+      <configuration name="WalidacjaHaslaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WalidacjaHaslaTest - 2019.01.12 at 12h 01m 25s.xml">
+      <configuration name="WalidacjaHaslaTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26409000" />
+    <option name="totallyTimeSpent" value="38061000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="0" width="1049" height="1087" extended-state="0" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25985843" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1493936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -278,7 +346,7 @@
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.2327044" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.23260644" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -367,13 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BiednyCamelCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DniTygodnia.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -414,13 +475,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaFX/Main.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/log4j-application.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -431,20 +485,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zapychaczeCzasu/Sandbox1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -455,6 +499,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="794">
+          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BiednyCamelCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zapychaczeCzasu/WalidacjaHasla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+          <folding>
+            <element signature="method#validateNewPassword#0;class#WalidacjaHasla#0" />
+            <element signature="method#isStringLongerThen8#0;class#WalidacjaHasla#0" />
+            <element signature="method#isPasswordHave2Numbers#0;class#WalidacjaHasla#0" />
+            <element signature="method#isPassHAveBigLetter#0;class#WalidacjaHasla#0" />
+            <element signature="method#isPassHaveSpecialChar#0;class#WalidacjaHasla#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="1102" column="6" selection-start-line="1102" selection-start-column="6" selection-end-line="1102" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringUtils/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="10" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zapychaczeCzasu/WalidacjaHaslaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lombok/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>

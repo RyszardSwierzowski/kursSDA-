@@ -5,6 +5,10 @@ public class BiednyCamelCase {
     }
 
 
+    /**
+     * @param str
+     * @return
+     */
     public static String poorCamelCase(String str) {
         char[] strArray = str.toCharArray();
 
