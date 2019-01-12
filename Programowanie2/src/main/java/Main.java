@@ -1,4 +1,4 @@
-import org.apache.log4j.Logger;
+//import org.apache.log4j.Logger;
 
 
 import java.util.ArrayList;
@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 
 public class Main {
-    final static Logger logger =Logger.getLogger(Main.class);
+    //final static Logger logger =Logger.getLogger(Main.class);
 
 
 
@@ -15,7 +15,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        logger.info("log into z klasy main/ doNothing() ");
+       // logger.info("log into z klasy main/ doNothing() ");
 
     }
 //    List<Integer> palindrom(){
