@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86ceb777-06c2-4b23-b4e6-0b5c68ffef43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zapychaczeCzasu/Sandbox1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zapychaczeCzasu/Sandbox1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestyOprogramowania/ttd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestyOprogramowania/ttd/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,50 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StringUtils/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="10" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lombok/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zapychaczeCzasu/szyfrCezara/SzyfrCezara.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zapychaczeCzasu/szyfrVigenere/SzyfrVigenere.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bazyDanych/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="54" selection-start-line="54" selection-start-column="2" selection-end-line="63" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="72">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -69,9 +32,9 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
-        <option value="FxmlFile" />
         <option value="Arquillian JUnit Test Class" />
         <option value="JUnit5 Test Class" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -103,7 +66,6 @@
         <option value="$PROJECT_DIR$/src/main/java/czas/ObslugaCzasu.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaFX/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/zapychaczeCzasu/sandbox1.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/zapychaczeCzasu/Sandbox1.java" />
         <option value="$PROJECT_DIR$/src/main/java/BiednyCamelCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/zapychaczeCzasu/WalidacjaHasla.java" />
         <option value="$PROJECT_DIR$/src/main/java/zapychaczeCzasu/WalidacjaHaslaTest.java" />
@@ -115,6 +77,9 @@
         <option value="$PROJECT_DIR$/src/main/java/zapychaczeCzasu/szyfrCezara/SzyfrCezara.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/zapychaczeCzasu/szyfrVigenere/SzyfrVigenere.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zapychaczeCzasu/Sandbox1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bazySQL/bazyDanych/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bazyDanych/Main.java" />
       </list>
     </option>
   </component>
@@ -138,8 +103,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,7 +136,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zapychaczeCzasu" type="462c0819:PsiDirectoryNode" />
+              <item name="bazyDanych" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -183,12 +148,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547303478361" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547888750176" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../projekt inz opr/testowe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../testowe-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -219,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SzyfrVigenere">
+  <component name="RunManager" selected="Application.Sandbox1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Programowanie2" />
@@ -240,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObslugaCzasu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="czas.ObslugaCzasu" />
+    <configuration name="Sandbox1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zapychaczeCzasu.Sandbox1" />
       <module name="Programowanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="czas.*" />
+          <option name="PATTERN" value="zapychaczeCzasu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,19 +259,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ObslugaCzasu" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.WalidacjaHasla" />
-      <item itemvalue="JUnit.WalidacjaHaslaTest" />
       <item itemvalue="Application.SzyfrVigenere" />
+      <item itemvalue="Application.Sandbox1" />
+      <item itemvalue="JUnit.WalidacjaHaslaTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sandbox1" />
         <item itemvalue="Application.SzyfrVigenere" />
         <item itemvalue="JUnit.WalidacjaHaslaTest" />
         <item itemvalue="Application.WalidacjaHasla" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ObslugaCzasu" />
       </list>
     </recent_temporary>
   </component>
@@ -330,6 +295,10 @@
       <workItem from="1547296645974" duration="325000" />
       <workItem from="1547296993686" duration="1210000" />
       <workItem from="1547298238866" duration="4842000" />
+      <workItem from="1547472464219" duration="455000" />
+      <workItem from="1547479985465" duration="30000" />
+      <workItem from="1547884311712" duration="1331000" />
+      <workItem from="1547893832936" duration="22000" />
     </task>
     <servers />
   </component>
@@ -354,12 +323,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42758000" />
+    <option name="totallyTimeSpent" value="44596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1493936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22271223" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -508,16 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zapychaczeCzasu/Sandbox1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zapychaczeCzasu/sandbox1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -553,13 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StringUtils/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="10" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zapychaczeCzasu/WalidacjaHaslaTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -574,6 +526,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringUtils/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="10" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -603,8 +562,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zapychaczeCzasu/szyfrVigenere/SzyfrVigenere.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="54" selection-start-line="54" selection-start-column="2" selection-end-line="63" selection-end-column="7" />
+        <state relative-caret-position="339">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zapychaczeCzasu/Sandbox1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="89" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bazyDanych/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
