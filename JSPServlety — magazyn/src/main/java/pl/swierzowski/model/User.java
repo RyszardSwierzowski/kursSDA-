@@ -13,17 +13,25 @@ public class User {
     private String imie;
     private String nazwisko;
     private UserType typUsera;
+    private String email;
 
     public User() {
     }
 
-    public User(long id, String imie, String nazwisko, UserType typUsera) {
-        this.id = id;
+    public User(String imie, String nazwisko, UserType typUsera, String email) {
         this.imie = imie;
         this.nazwisko = nazwisko;
         this.typUsera = typUsera;
+        this.email = email;
     }
 
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
 
     public long getId() {
         return id;

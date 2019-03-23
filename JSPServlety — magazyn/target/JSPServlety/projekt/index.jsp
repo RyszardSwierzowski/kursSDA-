@@ -5,31 +5,31 @@
 
 
 <html>
-        <head>
-            <title>SignIn</title>
-            <link rel="stylesheet" href="logowanie.css">
-        </head>
+<head>
+    <title>SignIn</title>
+    <link rel="stylesheet" href="/css/logowanie.css" type="text/css">
+
+</head>
 
 
 <!--               HEAD / BODY -->
 
-        <body>
+<body>
 
 <div id="logowanie">
-    <form action="logowanie" method="post">
-        <label><input type="text" name="userName" required></label> <br>
-        <label><input type="password" name="password" required></label> <br>
-        <input type="submit" value="Zaloguj się">
+    <h2>Logowanie</h2>
+    <form action="logowanie" method="post" class="form">
+        <label><input type="text" name="userName" placeholder="login (litery i cyfry)" minlength="6" maxlength="15" pattern="[A-Za-z0-9]+" required class="text-field"></label> <br><br>
+        <label><input type="password" name="password" placeholder="hasło" minlength="6" maxlength="15" required class="text-field"></label> <br><br><br>
+        <input type="submit" value="Zaloguj się" class="button" id="button_Sing_In">
     </form>
-    <form action="rejestracja", method="get">
-        <input type="submit" value="Rejestracja">
+
+    <form action="<c:url value="signUp.jsp"/>" , method="get" class="form">
+        <input type="submit" value="Rejestracja" class="button" id="button_Sign_Up">
     </form>
 </div>
 
 
-
-
-
-        </body>
+</body>
 
 </html>

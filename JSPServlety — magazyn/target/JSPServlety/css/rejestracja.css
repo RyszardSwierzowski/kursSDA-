@@ -1,0 +1,65 @@
+body {
+    background-color: azure;
+    font-family: Arial;
+}
+#rejestracja{
+    width: 300px;
+    padding: 10px;
+    background-color: silver;
+    border-color: gray;
+    border-radius: 20px;
+    margin: 10% auto auto;
+
+}
+
+
+.button {
+    width: 70%;
+    height: 25px;
+    border-radius: 25px;
+    font-weight: bold;
+    border-color: gray;
+}
+#button_Sign_Up
+{
+    background-color:  #009191;
+}
+#button_Sign_Up:hover{
+    background-color: #11a2a2;
+}
+
+#button_Back
+{
+    background-color: #ee5221;
+}
+#button_Back:hover{
+    background-color: #ff6332;
+}
+
+
+h2, .form {
+    text-align: center;
+}
+.text-field {
+    width: 80%;
+    height: 30px;
+    font-size: large;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    letter-spacing: 1px;
+    border-color: gray;
+
+}
+#rejestracja p {
+    display: block;
+    margin: 30px;
+    font-size: smaller;
+    color: #4d4d4d;
+
+}
+
+#zgoda {
+    font-size: 10px;
+}

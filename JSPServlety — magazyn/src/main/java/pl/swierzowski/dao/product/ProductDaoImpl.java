@@ -1,4 +1,4 @@
-package pl.swierzowski.dao;
+package pl.swierzowski.dao.product;
 
 import pl.swierzowski.model.Product;
 
