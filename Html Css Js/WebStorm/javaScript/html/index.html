@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>index JS</title>
+
+    <script>
+        let waga=70;
+        let wzrost=1.80;
+        let BMI;
+        let wynikStr;
+
+        function liczBMI( waga, wzrost) {
+            BMI=waga/(wzrost*wzrost)
+            if(BMI<18.5){
+                wynikStr='niedowaga';
+            }else if(BMI>24.9){
+                wynikStr='nadwaga';
+            }else{
+                wynikStr='prawidlowe BMI';
+            }
+        }
+
+        liczBMI(waga,wzrost);
+        console.log("Wspolczynnik BMI wynosi : "+BMI+ " -> "+wynikStr)
+
+
+    </script>
+
+</head>
+<body>
+
+</body>
+</html>

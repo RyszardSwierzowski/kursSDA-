@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f16876ce-df4d-437f-8140-f483812030c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/mongo/utlis/MongoUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programowanie2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programowanie2/src/main/java/zapychaczeCzasu/Sandbox1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programowanie2/src/main/java/zapychaczeCzasu/Sandbox1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestyOprogramowania/ttd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestyOprogramowania/ttd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,16 +13,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/mongo/main/Robot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="789">
-              <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+            <state relative-caret-position="339">
+              <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#303#311#0" expanded="true" />
-                <element signature="e#288#296#0" expanded="true" />
+                <element signature="e#807#815#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,7 +69,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="25" />
     <option name="y" value="94" />
     <option name="width" value="1085" />
@@ -87,6 +83,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,14 +170,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549723426102" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549723544727" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../hibernate_test" />
@@ -281,7 +277,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549700698469</updated>
-      <workItem from="1549700702892" duration="18007000" />
+      <workItem from="1549700702892" duration="18640000" />
+      <workItem from="1549785887226" duration="1249000" />
+      <workItem from="1549796195530" duration="10000" />
+      <workItem from="1549800201332" duration="14000" />
     </task>
     <servers />
   </component>
@@ -303,18 +302,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18007000" />
+    <option name="totallyTimeSpent" value="19913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.15270121" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.08875413" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -414,12 +412,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sdacademy/mongo/main/Robot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        <state relative-caret-position="339">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#303#311#0" expanded="true" />
-            <element signature="e#288#296#0" expanded="true" />
+            <element signature="e#807#815#0" expanded="true" />
           </folding>
         </state>
       </provider>
