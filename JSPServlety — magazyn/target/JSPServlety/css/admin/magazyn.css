@@ -1,0 +1,21 @@
+body{
+    background-color: azure;
+    font-family: Arial;
+}
+.table{
+margin:auto auto auto auto;
+width: 500px;
+    border-color:black;
+    border-bottom-style: dashed;
+    border-left: #111111;
+
+}
+.header2 {
+    float:left;
+    display:block;
+    padding: 10px 10px 10px 10px;
+    background-color: gray;
+
+
+
+}

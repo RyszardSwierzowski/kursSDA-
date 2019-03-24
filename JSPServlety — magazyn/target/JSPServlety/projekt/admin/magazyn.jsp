@@ -9,8 +9,32 @@
 <html>
 <head>
     <title>Magazyn</title>
+    <link rel="stylesheet" href="/css/admin/magazyn.css" type="text/css">
 </head>
 <body>
-<nav>    <jsp:include page="navBar.jsp" />      </nav>
+<nav>
+    <jsp:include page="navBar.jsp"/>
+</nav>
+<table>
+    <div>
+       <div class="table">
+           <span>Produkty w magazynie</span>
+           <div >
+               <div class="header2">Lp.</div>
+               <div class="header2">Produkt</div>
+               <div class="header2">Typ</div>
+               <div class="header2">Cena</div>
+               <div class="header2">Ilość</div>
+               <div class="header2">Edytuj</div>
+
+           </div>
+           <div class="row">
+               <div>
+
+               </div>
+           </div>
+       </div>
+    </div>
+</table>
 </body>
 </html>
