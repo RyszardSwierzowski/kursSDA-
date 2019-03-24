@@ -10,19 +10,33 @@ public class User {
     @Id
     @GeneratedValue
     private long id;
-    private String imie;
-    private String nazwisko;
+//    private String imie;
+//    private String nazwisko;
     private UserType typUsera;
     private String email;
+    private String login;
+    private String password;
 
     public User() {
     }
 
-    public User(String imie, String nazwisko, UserType typUsera, String email) {
-        this.imie = imie;
-        this.nazwisko = nazwisko;
+    public User( UserType typUsera, String email) {
         this.typUsera = typUsera;
         this.email = email;
+    }
+
+    public User( UserType typUsera, String email, String login, String password) {
+        this.typUsera = typUsera;
+        this.email = email;
+        this.login = login;
+        this.password = password;
+    }
+
+    public User(long id, UserType typUsera, String email, String login) {
+        this.id = id;
+        this.typUsera = typUsera;
+        this.email = email;
+        this.login = login;
     }
 
     public String getEmail() {
@@ -41,27 +55,27 @@ public class User {
         this.id = id;
     }
 
-    public String getImie() {
-        return imie;
-    }
-
-    public void setImie(String imie) {
-        this.imie = imie;
-    }
-
-    public String getNazwisko() {
-        return nazwisko;
-    }
-
-    public void setNazwisko(String nazwisko) {
-        this.nazwisko = nazwisko;
-    }
-
     public UserType getTypUsera() {
         return typUsera;
     }
 
     public void setTypUsera(UserType typUsera) {
         this.typUsera = typUsera;
+    }
+
+    public String getLogin() {
+        return login;
+    }
+
+    public void setLogin(String login) {
+        this.login = login;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String passord) {
+        this.password = passord;
     }
 }

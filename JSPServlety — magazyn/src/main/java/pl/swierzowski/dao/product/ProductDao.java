@@ -10,4 +10,5 @@ public interface ProductDao {
     void create(Product post);
     void edit(Product post);
     void remove(Product product);
+
 }

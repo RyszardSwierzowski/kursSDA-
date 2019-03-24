@@ -16,10 +16,10 @@
 
 <div id="rejestracja">
     <h2>Rejestracja</h2>
-    <form action="logowanie" method="post" class="form">
+    <form action="<c:url value="/rejestracja"/>" method="post" class="form">
         <label><input type="text" name="userName" placeholder="login (litery i cyfry)" minlength="6" maxlength="15" pattern="[A-Za-z0-9]+" required class="text-field"></label> <br><br>
         <label><input type="password" name="password" placeholder="hasło" minlength="6" maxlength="15" required class="text-field"></label> <br><br>
-        <label><input type="password" name="RepeatPassword" placeholder="powtórz hasło" minlength="6" maxlength="15" required class="text-field"></label> <br><br>
+        <label><input type="password" name="repeatPassword" placeholder="powtórz hasło" minlength="6" maxlength="15" required class="text-field"></label> <br><br>
         <label><input type="email" name="email" placeholder="adres e-mail" class="text-field" required></label><br><br>
         <label><input type="email" name="repeatEmail" placeholder=" powtórz adres e-mail" class="text-field" required></label><br><br>
         <label> <input type="checkbox" name="zgoda" required> <span id="zgoda">Wyrażam zgodę na przetwarzanie danych</span> </label><br><br>
@@ -27,7 +27,7 @@
 
     </form>
 
-    <form action="<c:url value="index.jsp"/>" , method="get" class="form" >
+    <form action="<c:url value="index.jsp"/>" , method="post" class="form" >
         <input type="submit" value="Powrót" class="button" id="button_Back">
     </form>
     <p>
@@ -35,6 +35,19 @@
         <b>hasło</b> powinno zawierać między 6,a 12 znaków
     </p>
 </div>
+
+<% if(request.getAttribute("userExist")!=null){%>
+<div id="error">
+    Użytkownie o podanym loginie i/lub haśle
+</div>
+<%}%>
+
+<% if(request.getAttribute("wrongValues")!=null){%>
+<div id="error">
+    Niezgodne dane
+</div>
+<%}%>
+
 
 
 </body>

@@ -63,3 +63,18 @@ h2, .form {
 #zgoda {
     font-size: 10px;
 }
+
+#error {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    color: darkred;
+    background-color: cornflowerblue;
+    width: 250px;
+    margin: auto auto;
+    margin-top: 20px;
+    border-radius:25px;
+    border-color: red;
+    padding: 15px 15px 15px;
+
+}

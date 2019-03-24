@@ -7,32 +7,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7332ef3f-7eaf-4f30-a88b-0c5fb97bbeb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Html Css Js/WebStorm/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Html Css Js/WebStorm/podstawyHTML/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/.idea/dataSources/2e822113-4430-4c73-9102-4b290d7e0c05.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate_test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/hibernate_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/src/main/java/pl/sdacademy/dao/MemberDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/src/main/java/pl/sdacademy/dao/RunDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/src/main/java/pl/sdacademy/daoimpl/MemberDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/src/main/java/pl/sdacademy/daoimpl/RunDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/src/main/java/pl/sdacademy/entity/Chip.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/src/main/java/pl/sdacademy/entity/Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/src/main/java/pl/sdacademy/entity/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/src/main/java/pl/sdacademy/run/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/src/main/java/pl/sdacademy/utils/DaoProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/src/main/java/pl/sdacademy/utils/HibernateUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/src/main/resources/hibernate.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/src/test/java/RunDaoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hibernate_test/target/classes/hibernate.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mongobd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongobd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPServlety.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServlety.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSPServlety — magazyn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPServlety — magazyn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSPServlety — magazyn/JSPServlety.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPServlety — magazyn/JSPServlety.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/java/pl/swierzowski/dao/user/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/java/pl/swierzowski/dao/user/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/java/pl/swierzowski/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/java/pl/swierzowski/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/java/pl/swierzowski/servlet/SignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/java/pl/swierzowski/servlet/SignIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/java/pl/swierzowski/servlet/SignUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/java/pl/swierzowski/servlet/SignUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/webapp/WEB-INF/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/webapp/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/webapp/css/rejestracja.css" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/webapp/css/rejestracja.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/webapp/projekt/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/webapp/projekt/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/webapp/projekt/signUp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPServlety — magazyn/src/main/webapp/projekt/signUp.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSPServlety — magazyn/target/JSPServlety/WEB-INF/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPServlety — magazyn/target/JSPServlety/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSPServlety — magazyn/target/JSPServlety/css/rejestracja.css" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPServlety — magazyn/target/JSPServlety/css/rejestracja.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSPServlety — magazyn/target/JSPServlety/projekt/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPServlety — magazyn/target/JSPServlety/projekt/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSPServlety — magazyn/target/JSPServlety/projekt/signUp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../JSPServlety — magazyn/target/JSPServlety/projekt/signUp.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,7 +37,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/dao/PostDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
+            <state relative-caret-position="126">
               <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/dao/PostDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="14" column="113" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="14" selection-end-column="113" />
+            <state relative-caret-position="558">
+              <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/servlet/DashboardServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="28" />
+            <state relative-caret-position="142">
+              <caret line="20" column="54" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,13 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/projekt/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="18" column="66" lean-forward="true" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#header#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="324">
+              <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -97,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/servlet/AddPostServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="324">
+              <caret line="18" column="55" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -181,13 +166,13 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pl/swierzowski/model/dao/PostDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/swierzowski/dao/PostDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/swierzowski/dao/PostDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/projekt/dodajPost.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/projekt/nazwa.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/pl/swierzowski/servlet/DashboardServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/swierzowski/servlet/AddPostServlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/projekt/addPost.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/projekt/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/swierzowski/dao/PostDaoImpl.java" />
       </list>
     </option>
   </component>
@@ -207,7 +192,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="55" />
-    <option name="width" value="1315" />
+    <option name="width" value="968" />
     <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -218,6 +203,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,14 +302,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553353343688" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553425092829" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JSPServlety — magazyn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -527,17 +512,18 @@
       <workItem from="1552940816218" duration="48000" />
       <workItem from="1553328567581" duration="8534000" />
       <workItem from="1553337279076" duration="14473000" />
+      <workItem from="1553414416618" duration="2521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70149000" />
+    <option name="totallyTimeSpent" value="72670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15931642" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16097023" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -548,7 +534,7 @@
       <window_info id="Persistence" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3281412" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39356178" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39356178" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -614,214 +600,38 @@
     <entry file="file://$PROJECT_DIR$/JSPServlety.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/wrongName.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/wrongName.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/zadanie1.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/ReverseStringServlet.java" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/zad1Response.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/ReverseServlet.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/validName.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/validName.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/SendEmail.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/kalkulator.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/wynikLiczenia.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/error.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/jstl/zad2b.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/sesje_i_ciasteczka/Ciasteczka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/jstl/zadania.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="39" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/sesja/logowanie.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/sesje_i_ciasteczka/Wyloguj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/sesja/panel.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/formularz.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/zad2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/zad2resp.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/NameServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="22" column="32" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/Pytanie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/SortServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="27" column="29" selection-start-line="26" selection-start-column="8" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/zadania.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="43" column="2" lean-forward="true" selection-start-line="41" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/zadaanie2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="31" column="12" selection-start-line="30" selection-start-column="7" selection-end-line="31" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/kalkulator.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/wynikLiczenia.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/error.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jstl/zad2b.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/sesje_i_ciasteczka/Ciasteczka.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jstl/zadania.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/sesja/logowanie.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/sesje_i_ciasteczka/Wyloguj.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/sesja/panel.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/formularz.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/zad2.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/zad2resp.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/NameServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/Pytanie.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/SortServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/zadania.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/zadaanie2.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/sesje_i_ciasteczka/SumowanieParamaetryUrl.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/jstl/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/sesje_i_ciasteczka/Logowanie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="31" column="37" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="31" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/sesja/test.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/sesje_i_ciasteczka/LiczKlikniecia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/sesja/licznik.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/filtr/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jstl/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/sesje_i_ciasteczka/Logowanie.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/sesja/test.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/sesje_i_ciasteczka/LiczKlikniecia.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/sesja/licznik.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/filtr/index.jsp" />
     <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar!/javax/servlet/http/HttpServletRequest.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -830,46 +640,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/filtry/Zad2.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/filtry/BaseFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/filtry/Zad1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/Kalkulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/zadanie4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/filtry/BaseFilter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/filtry/Zad1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/Kalkulator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/zadanie4.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="972">
@@ -881,13 +655,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="76" lean-forward="true" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -895,29 +663,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/projekt/dodajPost.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/projekt/dodajPost.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/projekt/nazwa.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="11" selection-start-line="11" selection-end-line="19" selection-end-column="10" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/dao/PostDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -933,6 +685,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/dao/PostDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/projekt/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/projekt/addPost.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -942,30 +711,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/servlet/DashboardServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="28" />
+        <state relative-caret-position="142">
+          <caret line="20" column="54" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/projekt/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="18" column="66" lean-forward="true" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#header#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/dao/PostDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="113" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="14" selection-end-column="113" />
+        <state relative-caret-position="558">
+          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -974,8 +731,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/swierzowski/servlet/AddPostServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="324">
+          <caret line="18" column="55" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

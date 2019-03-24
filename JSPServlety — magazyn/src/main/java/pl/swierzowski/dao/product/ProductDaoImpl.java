@@ -1,5 +1,7 @@
 package pl.swierzowski.dao.product;
 
+import pl.swierzowski.dao.user.UserDao;
+import pl.swierzowski.dao.user.UserDaoImpl;
 import pl.swierzowski.model.Product;
 
 import javax.persistence.EntityManager;
@@ -10,8 +12,10 @@ import java.util.List;
 
 public class ProductDaoImpl implements ProductDao{
 
-    private static final String PERSISTENCE_NAME = "store";
+    private static final String PERSISTENCE_NAME = "product";
     private static final EntityManagerFactory FACTORY = Persistence.createEntityManagerFactory(PERSISTENCE_NAME);
+
+    final ProductDao productDao = new ProductDaoImpl();
 
     @Override
     public List<Product> findAll() {
@@ -25,8 +29,12 @@ public class ProductDaoImpl implements ProductDao{
     }
 
     @Override
-    public void create(Product post) {
-
+    public void create(Product product) {
+        EntityManager em = FACTORY.createEntityManager();
+        em.getTransaction().begin();
+        em.persist(product);
+        em.getTransaction().commit();
+        em.close();
     }
 
     @Override
