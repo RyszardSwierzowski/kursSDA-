@@ -1,5 +1,6 @@
 package com.swierzowski.aspekty;
 
+import com.swierzowski.aspekty.annotation.Aspectable;
 import com.swierzowski.aspekty.model.Company;
 import com.swierzowski.aspekty.model.CompanyService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,6 +19,8 @@ public class AspektyApplication  implements CommandLineRunner {
     Company company;
 
 
+
+
     public static void main(String[] args) {
         SpringApplication.run(AspektyApplication.class, args);
     }
@@ -29,9 +32,13 @@ public class AspektyApplication  implements CommandLineRunner {
 //        userService.error();
 
         //zad 1
-        companyService.setUpperSiedziba("Krakow");
-        company.setSiedziba("Warszawa");
-        company.getSiedziba();
+//        companyService.setUpperSiedziba("Krakow");
+//        company.setSiedziba("Warszawa");
+//        company.getSiedziba();
+        //zad3
+
+
+
 
 
 

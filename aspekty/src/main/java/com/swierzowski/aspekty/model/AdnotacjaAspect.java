@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 
 @Aspect
 @Component
-public class MessageAspect {
+public class AdnotacjaAspect {
 
     @Autowired
     Message message;
@@ -21,21 +21,18 @@ public class MessageAspect {
             LoggerFactory.getLogger(UserAspect.class);
 
 
-    @Pointcut("@annotation(org.springframework.web.bind.annotation.GetMapping) ")
-    public void logResponseMapping() {}
+    @Pointcut("@annotation(com.swierzowski.aspekty.annotation.Aspectable) ")
+    public void mojaAdnotacja() {}
 
 
-    @Pointcut("@annotation(org.springframework.web.bind.annotation.PostMapping) ")
-    public void logRequestMapping() {}
 
 
-    @Before("logResponseMapping()" )
-    public void beforeResponse(){
-        log.info("przed response");
+
+    @Before("mojaAdnotacja()" )
+    public void przedAdnotacja(){
+        log.info("przed moją adnotacja");
     }
-    @Before("logRequestMapping()")
-    public void beforeRequest(JoinPoint joinPoint){
-        log.info("przed request");
-    }
+
+
 
 }

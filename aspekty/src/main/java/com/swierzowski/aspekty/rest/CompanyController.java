@@ -1,6 +1,7 @@
 package com.swierzowski.aspekty.rest;
 
 
+import com.swierzowski.aspekty.annotation.Aspectable;
 import com.swierzowski.aspekty.model.Company;
 import com.swierzowski.aspekty.model.Message;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,8 +15,6 @@ import java.util.List;
 @RequestMapping("/endpoint")
 public class CompanyController {
 
-    @Autowired
-    Company company;
 
 //    @GetMapping("/messages/{podany_tekst}")
 
@@ -27,6 +26,7 @@ public class CompanyController {
                 .body(message);
     }
 
+    @Aspectable // moja adnotacja do zad 3
     @GetMapping("/messages")
     ResponseEntity<List<Message>> getMessages( ){
         Message message1 = new Message();
