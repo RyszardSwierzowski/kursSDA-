@@ -10,6 +10,8 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import javax.servlet.http.HttpServletRequest;
+
 @Aspect
 @Component
 public class MessageAspect {
@@ -29,9 +31,11 @@ public class MessageAspect {
     public void logRequestMapping() {}
 
 
-    @Before("logResponseMapping()" )
-    public void beforeResponse(){
+    @Before("logResponseMapping() && args(..,response)" )
+    public void beforeResponse(HttpServletRequest response){
         log.info("przed response");
+
+        System.out.println(response.getPathInfo());
     }
     @Before("logRequestMapping()")
     public void beforeRequest(JoinPoint joinPoint){
